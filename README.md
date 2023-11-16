@@ -9,3 +9,7 @@ This repository serves as a comprehensive showcase of my university assignment f
 - **Course Title & Code**:CSE0613101
 - **Batch**:FALL 23
 - **Section**:60D Evening
+
+## INDEX
+| Assignment | Date |
+| Address & Pointer | 16 November, 2023 |
