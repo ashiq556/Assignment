@@ -4,7 +4,7 @@ This repository serves as a comprehensive showcase of my university assignment f
 
 ## ABOUT ME
 
-- [Name:](#Sanjoy Sutradhar)
+- **Name:**Sanjoy Sutradhar
 - [ID:](#2233091152)
 - [Course Title & Code:](#CSE0613101)
 - [Batch:](#FALL 23)
