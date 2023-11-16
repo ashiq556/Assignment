@@ -11,5 +11,6 @@ This repository serves as a comprehensive showcase of my university assignment f
 - **Section**:60D Evening
 
 ## INDEX
-| Assignment | Date |
-| Address & Pointer | 16 November, 2023 |
+| Assignment  | Date |
+| ------------- | ------------- |
+| Adress & Pointer  | 16 November, 2023  |
